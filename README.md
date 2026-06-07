@@ -13,14 +13,14 @@
 
 - [Problem Statement](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-problem-statement)
 - [Dataset](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-dataset)
-- [Technologies Used](#technologies-used)
-- [Key Insights](#key-insights)
-- [Visualizations](#visualizations)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Detailed Analysis & Conclusions](#detailed-analysis--conclusions)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+- [Technologies Used](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-technologies-used)
+- [Key Insights](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-key-insights)
+- [Visualizations](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-visualizations)
+- [Project Structure](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-project-structure)
+- [How to Run](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-how-to-run)
+- [Detailed Analysis & Conclusions](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-detailed-analysis--conclusions)
+- [Future Improvements](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-future-improvements)
+- [License](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-license)
 
 ---
 
@@ -103,6 +103,7 @@ titanic-survival-analysis/
 ├── README.md                      # This file
 └── images/                        # (Optional) All plots
 ````
+---
 🚀 How to Run the Project
 1. Clone the Repository
 Bash git clone https://github.com/akshaymamidala/titanic-survival-analysis.git
@@ -112,7 +113,7 @@ Bash pip install -r requirements.txt
 3. Launch Jupyter Notebook
 Bash jupyter notebook
 Open Titanic1.ipynb to explore the full analysis.
-
+---
 📝 Detailed Analysis & Conclusions
 Main Conclusions:
 
@@ -122,7 +123,7 @@ Age mattered — children had significantly higher survival chances.
 3rd class passengers had the lowest survival rate due to limited access to lifeboats.
 The data strongly supports the historical account of the Titanic evacuation.
 
-
+---
 🔮 Future Improvements
 
 Build a Machine Learning model to predict survival (Logistic Regression, Random Forest, etc.)
@@ -130,7 +131,7 @@ Feature engineering (Title extraction from Name, Family Size, etc.)
 Interactive visualizations using Plotly or Seaborn
 Deploy as a Streamlit web app
 
-
+---
 📄 License
 This project is open-source and available under the MIT License.
 
