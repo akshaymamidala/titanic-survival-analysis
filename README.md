@@ -11,8 +11,8 @@
 
 ## 📋 Table of Contents
 
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
+- [Problem Statement](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-problem-statement)
+- [Dataset](https://github.com/akshaymamidala/titanic-survival-analysis/blob/main/README.md#-dataset)
 - [Technologies Used](#technologies-used)
 - [Key Insights](#key-insights)
 - [Visualizations](#visualizations)
