@@ -105,12 +105,12 @@ titanic-survival-analysis/
 ````
 🚀 How to Run the Project
 1. Clone the Repository
-Bashgit clone https://github.com/YOUR_USERNAME/titanic-survival-analysis.git
+Bash git clone https://github.com/akshaymamidala/titanic-survival-analysis.git
 cd titanic-survival-analysis
 2. Install Dependencies
-Bashpip install -r requirements.txt
+Bash pip install -r requirements.txt
 3. Launch Jupyter Notebook
-Bashjupyter notebook
+Bash jupyter notebook
 Open Titanic1.ipynb to explore the full analysis.
 
 📝 Detailed Analysis & Conclusions
