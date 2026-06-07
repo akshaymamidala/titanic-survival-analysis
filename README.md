@@ -102,17 +102,24 @@ titanic-survival-analysis/
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 └── images/                        # (Optional) All plots
-````
+```
 ---
 🚀 How to Run the Project
 1. Clone the Repository
-Bash git clone https://github.com/akshaymamidala/titanic-survival-analysis.git
+```bash
+git clone https://github.com/akshaymamidala/titanic-survival-analysis.git
 cd titanic-survival-analysis
+```
 2. Install Dependencies
-Bash pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 3. Launch Jupyter Notebook
-Bash jupyter notebook
-Open Titanic1.ipynb to explore the full analysis.
+```bash
+jupyter notebook
+```
+4. Open Titanic1.ipynb to explore the full analysis.
+
 ---
 📝 Detailed Analysis & Conclusions
 Main Conclusions:
