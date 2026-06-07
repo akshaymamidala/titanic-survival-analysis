@@ -102,7 +102,7 @@ titanic-survival-analysis/
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 └── images/                        # (Optional) All plots
-
+````
 🚀 How to Run the Project
 1. Clone the Repository
 Bashgit clone https://github.com/YOUR_USERNAME/titanic-survival-analysis.git
